@@ -1,0 +1,9 @@
+current_month,sort_order,kpi,current_value,previous_month,same_month_last_year
+202610,1,Active loans,3210.0,3177.0,2631.0
+202610,2,Portfolio balance (GTQ),298831913.71,295915622.97,245798855.99
+202610,3,NPL ratio (90+ DPD),0.015,0.0162,0.0219
+202610,4,30+ delinquency ratio,0.0355,0.0319,0.0465
+202610,5,Disbursements in month (GTQ),14619243.42,15135474.77,14803653.34
+202610,6,"Charge-offs, trailing 12m (GTQ)",11613048.16,11776256.21,10577963.76
+202610,7,Expected loss (GTQ),8537410.23,,
+202610,8,Expected loss / portfolio,0.0286,,
